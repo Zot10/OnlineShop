@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DVD>
+
+    <id>0</id>
+    <title>The 100: The Complete Series</title>
+    <actors>
+        <actor>Eliza Taylor</actor>
+        <actor>Bob Marley</actor>
+        <actor>Lindsey Morgan</actor>
+    </actors>
+    <price>58.20</price>
+    <uuid>B09JM4HLTD</uuid>
+
+    <id>0</id>
+    <title>Aftersun</title>
+    <actors>
+        <actor>Paul Mescal</actor>
+        <actor>Frankie Corio</actor>
+        <actor>Spike Fearn</actor>
+    </actors>
+    <price>9.99</price>
+    <uuid>B0BMGX29Y6</uuid>
+
+    <id>0</id>
+    <title>Scream</title>
+    <actors>
+        <actor>Skeet Ulrich</actor>
+        <actor>David Arquette</actor>
+        <actor>Neve Campbell</actor>
+    </actors>
+    <price>5.99</price>
+    <uuid>B09P5JX9BK</uuid>
+
+    <id>0</id>
+    <title>House of the Dragon : Season 1</title>
+    <actors>
+        <actor>Milly Alcock</actor>
+        <actor>Matt Smith</actor>
+        <actor>Emma D'Arcy</actor>
+    </actors>
+    <price>19.25</price>
+    <uuid>B0BB37RY92</uuid>
+</DVD>

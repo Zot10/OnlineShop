@@ -1,0 +1,30 @@
+[
+  {
+    "id": "0",
+    "uuid": "B0BV2L974M",
+    "priceBook": "2.99",
+    "title": "The lighthouse murders",
+    "author": "Rachel McLean"
+  },
+  {
+    "id": "0",
+    "uuid": "0857504797",
+    "priceBook": "14.00",
+    "title": "Spare",
+    "author": "Prince Harry, The Duke of Sussex"
+  },
+  {
+    "id": "0",
+    "uuid": "1443786918",
+    "priceBook": "12.99",
+    "title": "The Brontes in Ireland; Or, Facts Stranger than Fiction",
+    "author": "William Wright"
+  },
+  {
+    "id": "0",
+    "uuid": "9781781105672",
+    "priceBook": "14.18",
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "0",
+    "firstname": "Rachel",
+    "lastname": "McLean",
+    "dateBirthday": "1971, 08, 13",
+    "biography": "Young English woman who was murdered at age nineteen by her fiancé, John Tanner."
+  },
+  {
+    "id": "0",
+    "firstname": "Joanne",
+    "lastname": "Rowling",
+    "dateBirthday": "1965, 07, 31",
+    "biography": "Joanne Rowling CH OBE FRSL (/ˈroʊlɪŋ/ \"rolling\";[1] born 31 July 1965), also known by her pen name J. K. Rowling, is a British author and philanthropist. She wrote Harry Potter, a seven-volume children's fantasy series published from 1997 to 2007. The series has sold over 600 million copies, been translated into 84 languages, and spawned a global media franchise including films and video games. The Casual Vacancy (2012) was her first novel for adults. She writes Cormoran Strike, an ongoing crime fiction series, under the alias Robert Galbraith."
+  },
+  {
+    "id": "0",
+    "firstname": "Prince Harry, Duke of Sussex",
+    "lastname": "David",
+    "dateBirthday": "1984, 09, 15",
+    "biography": "Prince Harry, Duke of Sussex,[fn 2] KCVO (Henry Charles Albert David; born 15 September 1984)[2] is a member of the British royal family. He is the younger son of King Charles III and Diana, Princess of Wales. He is fifth in the line of succession to the British throne. "
+  },
+  {
+    "id": "0",
+    "firstname": "William Garrett ",
+    "lastname": "Wright ",
+    "dateBirthday": "1837, 01, 15",
+    "biography": "William Garrett Wright is an American poet, editor, and writer. Raised in Edgefield, South Carolina, Wright has worked as an educator at institutions such as Emory University, Oxford College at Emory University, and The University of Tennessee. His poems have been published in Oxford American, AGNI, Antioch Review, Kenyon Review, and Shenandoah, among others. His first book of poetry, Dark Orchard, was published in 2005. His third book, Tree Heresies, was released in 2015 and won Wright the 2016 Georgia Author of the Year (Poetry) award.[1] Specter Mountain, a collaborative volume of poems written with Jesse Graves, won the Appalachian Book of the Year award in 2019.[2]"
+  }
+]
