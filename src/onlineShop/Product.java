@@ -1,6 +1,6 @@
 package onlineShop;
 
-public class products {
+public class Product {
     public String uuid; //min 8 characters
     public float price; // + number
     public String title; // no empty
