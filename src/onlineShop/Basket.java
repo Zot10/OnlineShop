@@ -27,6 +27,7 @@ public class Basket {
             System.out.println(product.gettitle() + " " + product.getprice());
         }
 
+
     }
 
     public void showTotalPrice() {
